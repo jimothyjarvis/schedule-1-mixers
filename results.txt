@@ -1,0 +1,824 @@
+Max Value OG Kush with 1 ingredients:
+  Value: 64
+  Cost: 4
+  Profit: 60
+  Effects:
+  - AntiGravity
+  - Balding
+
+  Ingredients:
+  - MouthWash
+
+
+
+
+Max Value Sour Diesel with 1 ingredients:
+  Value: 65
+  Cost: 8
+  Profit: 57
+  Effects:
+  - ThoughtProvoking
+  - Jennerising
+
+  Ingredients:
+  - Iodine
+
+
+
+
+Max Value Green Crack with 1 ingredients:
+  Value: 67
+  Cost: 7
+  Profit: 60
+  Effects:
+  - Cyclopean
+  - Foggy
+
+  Ingredients:
+  - MegaBean
+
+
+
+
+Max Value Grandaddy Purple with 1 ingredients:
+  Value: 60
+  Cost: 4
+  Profit: 56
+  Effects:
+  - Sedating
+  - TropicThunder
+
+  Ingredients:
+  - Viagra
+
+
+
+
+Max Value Coke with 1 ingredients:
+  Value: 228
+  Cost: 9
+  Profit: 219
+  Effects:
+  - LongFaced
+
+  Ingredients:
+  - HorseSemen
+
+
+
+
+Max Value OG Kush with 2 ingredients:
+  Value: 84
+  Cost: 9
+  Profit: 75
+  Effects:
+  - Glowing
+  - Cyclopean
+  - Foggy
+
+  Ingredients:
+  - Cuke
+  - MegaBean
+
+
+
+
+Max Value Sour Diesel with 2 ingredients:
+  Value: 81
+  Cost: 12
+  Profit: 69
+  Effects:
+  - ThoughtProvoking
+  - Jennerising
+  - TropicThunder
+
+  Ingredients:
+  - Iodine
+  - Viagra
+
+
+
+
+Max Value Green Crack with 2 ingredients:
+  Value: 83
+  Cost: 11
+  Profit: 72
+  Effects:
+  - Cyclopean
+  - TropicThunder
+  - Foggy
+
+  Ingredients:
+  - Viagra
+  - MegaBean
+
+
+
+
+Max Value Grandaddy Purple with 2 ingredients:
+  Value: 76
+  Cost: 9
+  Profit: 67
+  Effects:
+  - Sedating
+  - Cyclopean
+  - Foggy
+
+  Ingredients:
+  - Cuke
+  - MegaBean
+
+
+
+
+Max Value Coke with 2 ingredients:
+  Value: 303
+  Cost: 18
+  Profit: 285
+  Effects:
+  - Electrifying
+  - LongFaced
+
+  Ingredients:
+  - Addy
+  - HorseSemen
+
+
+
+
+Max Value OG Kush with 3 ingredients:
+  Value: 100
+  Cost: 13
+  Profit: 87
+  Effects:
+  - Glowing
+  - Cyclopean
+  - TropicThunder
+  - Foggy
+
+  Ingredients:
+  - Cuke
+  - Viagra
+  - MegaBean
+
+
+
+
+Max Value Sour Diesel with 3 ingredients:
+  Value: 102
+  Cost: 21
+  Profit: 81
+  Effects:
+  - Electrifying
+  - Jennerising
+  - TropicThunder
+  - LongFaced
+
+  Ingredients:
+  - Iodine
+  - Viagra
+  - HorseSemen
+
+
+
+
+Max Value Green Crack with 3 ingredients:
+  Value: 101
+  Cost: 19
+  Profit: 82
+  Effects:
+  - Electrifying
+  - ThoughtProvoking
+  - LongFaced
+  - Jennerising
+
+  Ingredients:
+  - Banana
+  - HorseSemen
+  - Iodine
+
+
+
+
+Max Value Grandaddy Purple with 3 ingredients:
+  Value: 92
+  Cost: 13
+  Profit: 79
+  Effects:
+  - Sedating
+  - Cyclopean
+  - TropicThunder
+  - Foggy
+
+  Ingredients:
+  - Cuke
+  - Viagra
+  - MegaBean
+
+
+
+
+Max Value Coke with 3 ingredients:
+  Value: 372
+  Cost: 22
+  Profit: 350
+  Effects:
+  - TropicThunder
+  - Electrifying
+  - LongFaced
+
+  Ingredients:
+  - Viagra
+  - Addy
+  - HorseSemen
+
+
+
+
+Max Value OG Kush with 4 ingredients:
+  Value: 113
+  Cost: 17
+  Profit: 96
+  Effects:
+  - AntiGravity
+  - Cyclopean
+  - Balding
+  - TropicThunder
+  - Foggy
+
+  Ingredients:
+  - Cuke
+  - MouthWash
+  - Viagra
+  - MegaBean
+
+
+
+
+Max Value Sour Diesel with 4 ingredients:
+  Value: 116
+  Cost: 23
+  Profit: 93
+  Effects:
+  - ThoughtProvoking
+  - Cyclopean
+  - AntiGravity
+  - Jennerising
+  - Slippery
+
+  Ingredients:
+  - Cuke
+  - MegaBean
+  - Iodine
+  - MotorOil
+
+
+
+
+Max Value Green Crack with 4 ingredients:
+  Value: 114
+  Cost: 18
+  Profit: 96
+  Effects:
+  - Glowing
+  - BrightEyed
+  - Cyclopean
+  - TropicThunder
+  - Foggy
+
+  Ingredients:
+  - Gasoline
+  - Cuke
+  - Viagra
+  - MegaBean
+
+
+
+
+Max Value Grandaddy Purple with 4 ingredients:
+  Value: 112
+  Cost: 20
+  Profit: 92
+  Effects:
+  - Sedating
+  - Electrifying
+  - Cyclopean
+  - LongFaced
+  - Foggy
+
+  Ingredients:
+  - Banana
+  - Cuke
+  - HorseSemen
+  - MegaBean
+
+
+
+
+Max Value Coke with 4 ingredients:
+  Value: 441
+  Cost: 20
+  Profit: 421
+  Effects:
+  - Electrifying
+  - Cyclopean
+  - LongFaced
+  - Foggy
+
+  Ingredients:
+  - Banana
+  - Cuke
+  - HorseSemen
+  - MegaBean
+
+
+
+
+Max Value OG Kush with 5 ingredients:
+  Value: 134
+  Cost: 26
+  Profit: 108
+  Effects:
+  - Glowing
+  - Zombifying
+  - Cyclopean
+  - Foggy
+  - BrightEyed
+  - TropicThunder
+
+  Ingredients:
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+  - Viagra
+
+
+
+
+Max Value Sour Diesel with 5 ingredients:
+  Value: 132
+  Cost: 27
+  Profit: 105
+  Effects:
+  - ThoughtProvoking
+  - Cyclopean
+  - TropicThunder
+  - AntiGravity
+  - Jennerising
+  - Slippery
+
+  Ingredients:
+  - Cuke
+  - Viagra
+  - MegaBean
+  - Iodine
+  - MotorOil
+
+
+
+
+Max Value Green Crack with 5 ingredients:
+  Value: 134
+  Cost: 25
+  Profit: 109
+  Effects:
+  - Glowing
+  - TropicThunder
+  - Zombifying
+  - Cyclopean
+  - Foggy
+  - BrightEyed
+
+  Ingredients:
+  - Paracetamol
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+
+
+
+
+Max Value Grandaddy Purple with 5 ingredients:
+  Value: 128
+  Cost: 24
+  Profit: 104
+  Effects:
+  - Sedating
+  - Electrifying
+  - Cyclopean
+  - TropicThunder
+  - LongFaced
+  - Foggy
+
+  Ingredients:
+  - Banana
+  - Cuke
+  - Viagra
+  - HorseSemen
+  - MegaBean
+
+
+
+
+Max Value Coke with 5 ingredients:
+  Value: 510
+  Cost: 24
+  Profit: 486
+  Effects:
+  - Electrifying
+  - Cyclopean
+  - TropicThunder
+  - LongFaced
+  - Foggy
+
+  Ingredients:
+  - Banana
+  - Cuke
+  - Viagra
+  - HorseSemen
+  - MegaBean
+
+
+
+
+Max Value OG Kush with 6 ingredients:
+  Value: 144
+  Cost: 24
+  Profit: 120
+  Effects:
+  - AntiGravity
+  - Glowing
+  - BrightEyed
+  - Cyclopean
+  - Balding
+  - TropicThunder
+  - Foggy
+
+  Ingredients:
+  - Cuke
+  - Gasoline
+  - Cuke
+  - MouthWash
+  - Viagra
+  - MegaBean
+
+
+
+
+Max Value Sour Diesel with 6 ingredients:
+  Value: 151
+  Cost: 34
+  Profit: 117
+  Effects:
+  - ThoughtProvoking
+  - Electrifying
+  - Cyclopean
+  - LongFaced
+  - AntiGravity
+  - Jennerising
+  - Slippery
+
+  Ingredients:
+  - Banana
+  - Cuke
+  - HorseSemen
+  - MegaBean
+  - Iodine
+  - MotorOil
+
+
+
+
+Max Value Green Crack with 6 ingredients:
+  Value: 153
+  Cost: 33
+  Profit: 120
+  Effects:
+  - AntiGravity
+  - Glowing
+  - Zombifying
+  - TropicThunder
+  - Cyclopean
+  - Foggy
+  - BrightEyed
+
+  Ingredients:
+  - Paracetamol
+  - MegaBean
+  - MotorOil
+  - Cuke
+  - MegaBean
+  - Battery
+
+
+
+
+Max Value Grandaddy Purple with 6 ingredients:
+  Value: 146
+  Cost: 29
+  Profit: 117
+  Effects:
+  - TropicThunder
+  - Cyclopean
+  - LongFaced
+  - AntiGravity
+  - BrightEyed
+  - Spicy
+  - Balding
+
+  Ingredients:
+  - Cuke
+  - EnergyDrink
+  - MegaBean
+  - Paracetamol
+  - Chili
+  - MouthWash
+
+
+
+
+Max Value Coke with 6 ingredients:
+  Value: 576
+  Cost: 27
+  Profit: 549
+  Effects:
+  - Glowing
+  - TropicThunder
+  - Zombifying
+  - Cyclopean
+  - Foggy
+  - BrightEyed
+
+  Ingredients:
+  - Cuke
+  - Paracetamol
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+
+
+
+
+Max Value OG Kush with 7 ingredients:
+  Value: 164
+  Cost: 28
+  Profit: 136
+  Effects:
+  - TropicThunder
+  - AntiGravity
+  - Zombifying
+  - Glowing
+  - Cyclopean
+  - BrightEyed
+  - ThoughtProvoking
+  - Energizing
+
+  Ingredients:
+  - Banana
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+  - Banana
+  - Cuke
+
+
+
+
+Max Value Sour Diesel with 7 ingredients:
+  Value: 167
+  Cost: 38
+  Profit: 129
+  Effects:
+  - ThoughtProvoking
+  - Electrifying
+  - Cyclopean
+  - TropicThunder
+  - LongFaced
+  - AntiGravity
+  - Jennerising
+  - Slippery
+
+  Ingredients:
+  - Banana
+  - Cuke
+  - Viagra
+  - HorseSemen
+  - MegaBean
+  - Iodine
+  - MotorOil
+
+
+
+
+Max Value Green Crack with 7 ingredients:
+  Value: 166
+  Cost: 34
+  Profit: 132
+  Effects:
+  - Glowing
+  - TropicThunder
+  - LongFaced
+  - Zombifying
+  - Cyclopean
+  - Spicy
+  - Foggy
+  - BrightEyed
+
+  Ingredients:
+  - Paracetamol
+  - Cuke
+  - Gasoline
+  - Cuke
+  - Chili
+  - MegaBean
+  - Battery
+
+
+
+
+Max Value Grandaddy Purple with 7 ingredients:
+  Value: 163
+  Cost: 33
+  Profit: 130
+  Effects:
+  - AntiGravity
+  - Glowing
+  - CalorieDense
+  - TropicThunder
+  - Zombifying
+  - Cyclopean
+  - Foggy
+  - BrightEyed
+
+  Ingredients:
+  - Cuke
+  - EnergyDrink
+  - Paracetamol
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+
+
+
+
+Max Value Coke with 7 ingredients:
+  Value: 657
+  Cost: 33
+  Profit: 624
+  Effects:
+  - AntiGravity
+  - Glowing
+  - TropicThunder
+  - Zombifying
+  - Cyclopean
+  - Foggy
+  - BrightEyed
+
+  Ingredients:
+  - MotorOil
+  - Cuke
+  - Paracetamol
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+
+
+
+
+Max Value OG Kush with 8 ingredients:
+  Value: 171
+  Cost: 31
+  Profit: 140
+  Effects:
+  - TropicThunder
+  - AntiGravity
+  - Zombifying
+  - Jennerising
+  - Glowing
+  - Cyclopean
+  - BrightEyed
+  - ThoughtProvoking
+
+  Ingredients:
+  - Banana
+  - Gasoline
+  - Paracetamol
+  - Cuke
+  - MegaBean
+  - Battery
+  - Banana
+  - Cuke
+
+
+
+
+Max Value Sour Diesel with 8 ingredients:
+  Value: 171
+  Cost: 41
+  Profit: 130
+  Effects:
+  - ThoughtProvoking
+  - Glowing
+  - TropicThunder
+  - Zombifying
+  - Cyclopean
+  - AntiGravity
+  - BrightEyed
+  - Jennerising
+
+  Ingredients:
+  - Cuke
+  - Paracetamol
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+  - Iodine
+  - MotorOil
+
+
+
+
+Max Value Green Crack with 8 ingredients:
+  Value: 171
+  Cost: 31
+  Profit: 140
+  Effects:
+  - Jennerising
+  - TropicThunder
+  - AntiGravity
+  - Zombifying
+  - Glowing
+  - Cyclopean
+  - BrightEyed
+  - ThoughtProvoking
+
+  Ingredients:
+  - Paracetamol
+  - Banana
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+  - Banana
+  - Cuke
+
+
+
+
+Max Value Grandaddy Purple with 8 ingredients:
+  Value: 165
+  Cost: 31
+  Profit: 134
+  Effects:
+  - Sedating
+  - AntiGravity
+  - TropicThunder
+  - Zombifying
+  - Glowing
+  - Cyclopean
+  - BrightEyed
+  - ThoughtProvoking
+
+  Ingredients:
+  - Banana
+  - Paracetamol
+  - Gasoline
+  - Cuke
+  - MegaBean
+  - Battery
+  - Banana
+  - Cuke
+
+
+
+
+Max Value Coke with 8 ingredients:
+  Value: 735
+  Cost: 42
+  Profit: 693
+  Effects:
+  - AntiGravity
+  - Glowing
+  - TropicThunder
+  - Zombifying
+  - Cyclopean
+  - LongFaced
+  - Foggy
+  - BrightEyed
+
+  Ingredients:
+  - MotorOil
+  - Cuke
+  - Paracetamol
+  - Gasoline
+  - Cuke
+  - HorseSemen
+  - MegaBean
+  - Battery
